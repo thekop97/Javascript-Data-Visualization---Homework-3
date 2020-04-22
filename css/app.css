@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  padding: 25px;
+  font-family: "couriwe New", Courier, monospace;
+}
+
+body h1 {
+  text-align: center;
+  padding: 25px;
+  font-size: 50px;
+  background-color: rgba(255,0,0,0.2);
+}
+
+body p {
+	text-align: center;
+	padding: 25px;
+	font-style: 30px;
+}
+
+hr {
+  margin: 50px 0;
+}
+
+canvas {
+  max-height: 500;
+}
+
+.hidden {
+  display: none;
+}
+
+#logo img {
+  width: 200px;
+  height: 250px;
+}
